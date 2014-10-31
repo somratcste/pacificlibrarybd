@@ -1,0 +1,100 @@
+
+<div class="main-menu"> 
+		    <span id="TopRightMenuLabel">
+			<ul>
+			   <li><a href='http://www.achinto.com'>Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+			   <li><a href='http://www.achinto.com'>My Achinto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+			   <li><a href='http://www.achinto.com'>How to Order</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+			   <li><a href='http://www.achinto.com'>Refunds Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+			   <li><a href='http://www.achinto.com'>Address</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+			 </ul>
+			</span>
+		  </div> <!-- main menu -->
+		  
+		  
+		  <div class="left-category-menu">
+			 <div class="category-header">Shoping Category
+			 </div>
+			 <ul id="nav">
+                <li><a href="#"><img src="images/home.png" />Home</a></li>
+                <li><a href="#" class="sub" tabindex="1"><img src="images/shirt.png" />Gents</a><img src="images/up.gif" alt="" />
+                    <ul>
+                        <li><a href="#"><img src="images/empty.gif" />Pant</a></li>
+                        <li><a href="#"><img src="images/empty.gif" />Shirt</a></li>
+                        <li><a href="#"><img src="images/empty.gif" />Belt</a></li>
+                        <li><a href="#"><img src="images/empty.gif" />Watch</a></li>
+                        <li><a href="#"><img src="images/empty.gif" />T-Shirt</a></li>
+                    </ul>
+                </li>
+                <li><a href="#" class="sub" tabindex="1"><img src="images/ladies.png" />Ladies</a><img src="images/up.gif" alt="" />
+                    <ul>
+                        <li><a href="#"><img src="images/empty.gif" />Shari</a></li>
+                        <li><a href="#"><img src="images/empty.gif" />Pant</a></li>
+                        <li><a href="#"><img src="images/empty.gif" />Shoes</a></li>
+                        <li><a href="#"><img src="images/empty.gif" />Watch</a></li>
+                        <li><a href="#"><img src="images/empty.gif" />Bag</a></li>
+                    </ul>
+                </li>
+                <li><a href="#"><img src="images/shoe.png" />Shoes</a></li>
+                <li><a href="#"><img src="images/watch.png" />Watch</a></li>
+                <li><a href="#"><img src="images/cosmetics.png" />Cosmetics</a></li>
+            </ul>
+			
+			<ul id="nav">
+                <li><a href="#"><img src="images/home.png" />Home</a></li>
+                <li><a href="#" class="sub" tabindex="1"><img src="images/shirt.png" />Gents</a><img src="images/up.gif" alt="" />
+                    <ul>
+                        <li><a href="#"><img src="images/empty.gif" />Pant</a></li>
+                        <li><a href="#"><img src="images/empty.gif" />Shirt</a></li>
+                        <li><a href="#"><img src="images/empty.gif" />Belt</a></li>
+                        <li><a href="#"><img src="images/empty.gif" />Watch</a></li>
+                        <li><a href="#"><img src="images/empty.gif" />T-Shirt</a></li>
+                    </ul>
+                </li>
+                <li><a href="#" class="sub" tabindex="1"><img src="images/ladies.png" />Ladies</a><img src="images/up.gif" alt="" />
+                    <ul>
+                        <li><a href="#"><img src="images/empty.gif" />Shari</a></li>
+                        <li><a href="#"><img src="images/empty.gif" />Pant</a></li>
+                        <li><a href="#"><img src="images/empty.gif" />Shoes</a></li>
+                        <li><a href="#"><img src="images/empty.gif" />Watch</a></li>
+                        <li><a href="#"><img src="images/empty.gif" />Bag</a></li>
+                    </ul>
+                </li>
+                <li><a href="#"><img src="images/shoe.png" />Shoes</a></li>
+                <li><a href="#"><img src="images/watch.png" />Watch</a></li>
+                <li><a href="#"><img src="images/cosmetics.png" />Cosmetics</a></li>
+            </ul>
+			 
+			 
+		 
+		 
+			   </div> <!-- left category menu -->
+			   
+			   
+			   <div class="deal clear"> 
+		    <h2>Programming</h2>
+			 <hr />
+		    <div class="deal-content">
+			   <img src="images/cplusplus.gif" />
+			   <p class="product-name clear"><a href="#">Computer Fundamentals</a></p>
+			   <p class="product-price clear">Tk. 220/-</p>
+			   <p class="product-view clear"><a href="#">See More Related Books</a></p>
+			</div>
+			
+			<div class="deal-content">
+			   <img src="images/coblo.gif" />
+			   <p class="product-name clear"><a href="#">Computer Fundamentals</a></p>
+			   <p class="product-price clear">Tk. 220/-</p>
+			   <p class="product-view clear"><a href="#">See More Related Books</a></p>
+			</div>
+			
+			<div class="deal-content">
+			   <img src="images/data-communication.gif" />
+			   <p class="product-name clear"><a href="#">Computer Fundamentals</a></p>
+			   <p class="product-price clear">Tk. 220/-</p>
+			   <p class="product-view clear"><a href="#">See More Related Books</a></p>
+			</div>
+			
+		  </div> <!--  deal -->
+		  
+		 

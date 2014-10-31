@@ -1,0 +1,15 @@
+#toTop {
+   background-image: url("images/up.png");
+background-repeat: no-repeat;
+bottom: 5px;
+display: table-caption;
+height: 64px;
+opacity: 0.4;
+position: fixed;
+right: 5px;
+width: 64px;
+}
+#toTop:hover {
+    opacity: 0.8;
+    filter: alpha(opacity=80); /* For IE8 and earlier */
+}
